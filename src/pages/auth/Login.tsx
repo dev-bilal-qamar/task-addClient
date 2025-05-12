@@ -139,6 +139,7 @@ const Login = () => {
                                         name="password"
                                         id="password"
                                         type="password"
+                                        placeholder="Enter your password"
                                         required
                                         onChange={handleChange}
                                         className="pl-10 text-sm transition-all bg-white border-gray-200 rounded-lg h-11 focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50"
