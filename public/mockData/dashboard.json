@@ -1,0 +1,29 @@
+{
+  "stats": {
+    "totalClients": 1248,
+    "totalRevenue": 45678,
+    "pendingOrders": 24,
+    "clientGrowth": 12,
+    "revenueGrowth": 8
+  },
+  "monthlySales": [
+    { "name": "Jan", "value": 400 },
+    { "name": "Feb", "value": 300 },
+    { "name": "Mar", "value": 600 },
+    { "name": "Apr", "value": 800 },
+    { "name": "May", "value": 500 },
+    { "name": "Jun", "value": 900 }
+  ],
+  "productDistribution": [
+    { "name": "Product A", "value": 400 },
+    { "name": "Product B", "value": 300 },
+    { "name": "Product C", "value": 300 },
+    { "name": "Product D", "value": 200 }
+  ],
+  "recentActivities": [
+    { "id": 1, "action": "New client added", "user": "John Doe", "time": "2 hours ago" },
+    { "id": 2, "action": "Invoice #1234 paid", "user": "System", "time": "4 hours ago" },
+    { "id": 3, "action": "Product stock updated", "user": "Jane Smith", "time": "Yesterday" },
+    { "id": 4, "action": "New order received", "user": "System", "time": "Yesterday" }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "code": "P001",
+      "name": "Engine Oil",
+      "category": "Lubricants",
+      "price": 25.99,
+      "stock": 120,
+      "status": "In Stock"
+    },
+    {
+      "id": 2,
+      "code": "P002",
+      "name": "Air Filter",
+      "category": "Filters",
+      "price": 12.5,
+      "stock": 85,
+      "status": "In Stock"
+    },
+    {
+      "id": 3,
+      "code": "P003",
+      "name": "Brake Pad",
+      "category": "Brakes",
+      "price": 45.0,
+      "stock": 32,
+      "status": "Low Stock"
+    },
+    {
+      "id": 4,
+      "code": "P004",
+      "name": "Spark Plug",
+      "category": "Ignition",
+      "price": 8.75,
+      "stock": 200,
+      "status": "In Stock"
+    },
+    {
+      "id": 5,
+      "code": "P005",
+      "name": "Transmission Fluid",
+      "category": "Lubricants",
+      "price": 18.99,
+      "stock": 65,
+      "status": "In Stock"
+    },
+    {
+      "id": 6,
+      "code": "P006",
+      "name": "Wiper Blade",
+      "category": "Accessories",
+      "price": 15.5,
+      "stock": 10,
+      "status": "Low Stock"
+    },
+    {
+      "id": 7,
+      "code": "P007",
+      "name": "Battery",
+      "category": "Electrical",
+      "price": 89.99,
+      "stock": 0,
+      "status": "Out of Stock"
+    },
+    {
+      "id": 8,
+      "code": "P008",
+      "name": "Coolant",
+      "category": "Fluids",
+      "price": 14.25,
+      "stock": 48,
+      "status": "In Stock"
+    }
+  ]
+}
